@@ -1,2 +1,2 @@
 # test
-Test 1
+Test locale 1
